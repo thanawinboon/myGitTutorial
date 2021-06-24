@@ -1,5 +1,5 @@
 
-def hello():
+def hello123():
     print("Gawim is happy")
 
 # git init  --> initialize your local git
@@ -12,3 +12,6 @@ def hello():
 # git tag <tag name>
 
 # git checkout <tag name OR commit hash>
+
+def hi():
+    print("Yoyo")
