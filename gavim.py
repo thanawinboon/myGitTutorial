@@ -8,3 +8,7 @@ def hello():
 # git commit -m "your commit messages"  --> to confirm your changes and save em
 # git log  --> view commit history
 
+# tagging
+# git tag <tag name>
+
+# git checkout <tag name OR commit hash>
