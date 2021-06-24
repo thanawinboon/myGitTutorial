@@ -16,3 +16,6 @@ def hello123():
 
 def hi():
     print("Yoyo")
+
+def sawasdee():
+    pass
