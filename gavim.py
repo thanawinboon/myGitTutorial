@@ -12,6 +12,7 @@ def hello123():
 # git tag <tag name>
 
 # git checkout <tag name OR commit hash>
+# git checout -b <new branch name>  --> create a new branch at the current location
 
 def hi():
     print("Yoyo")
